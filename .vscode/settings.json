@@ -1,0 +1,6 @@
+{
+    "tailwindCSS.emmetCompletions": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "diffEditor.wordWrap": "on"
+}
